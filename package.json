@@ -17,6 +17,6 @@
   "author": "Felix Gonzalez",
   "license": "MIT",
   "dependencies": {
-    "npm": "^6.2.0"
+    "npm": "^6.2.0" 
   }
 }
